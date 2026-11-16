@@ -2,7 +2,7 @@
 // - 起動：端末に保存した版をすぐ出す（電波が無くても遊べる）。保存が無いときだけネットから取る
 // - 更新：このファイルの版の名前（bundle.py が書き込む）が変わると、端末が新しい版を取りにいき、入れ替える。
 //   入れ替わるとゲームの画面に「新しい版があります」が出る
-var VERSION = '2026-11-17 00:57 6ea71e7';
+var VERSION = '2026-11-17 01:13 afef58d';
 var CACHE = 'mayoi-' + VERSION;
 var FILES = ['./', 'manifest.webmanifest', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
 
